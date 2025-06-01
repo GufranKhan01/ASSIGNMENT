@@ -45,5 +45,7 @@ This simple Python program demonstrates how to work with tuples and slicing in P
 
 # Sample Output
 Original list: (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+
 Extracted first five elements (1, 2, 3, 4, 5)
+
 Reversed extracted elements: (5, 4, 3, 2, 1)
