@@ -27,3 +27,23 @@ This is a simple Python script that calculates the sum of all numbers from 1 to 
 - Each number is added to n using the += operator.
 
 - After the loop, the total sum is printed.
+
+
+
+# **🔥 ASSIGNMENT 5 🔥**
+
+# Extract and Reverse
+
+This simple Python program demonstrates how to work with tuples and slicing in Python. It extracts the first five elements from a predefined tuple of numbers and then reverses those elements.
+
+## Features
+
+- Uses a tuple of numbers from 1 to 10.
+- Extracts the first five elements.
+- Reverses the extracted elements.
+- Prints the original, extracted, and reversed data.
+
+# Sample Output
+Original list: (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+Extracted first five elements (1, 2, 3, 4, 5)
+Reversed extracted elements: (5, 4, 3, 2, 1)
